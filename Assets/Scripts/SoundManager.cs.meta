@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8676c62c5f3e5d9459cde0ecf3efde87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _paintSound: {fileID: 8300000, guid: c0ef9791b1a85104b943c883055842af, type: 3}
+  - _xpSound: {fileID: 8300000, guid: 1ea7435cb40dbab45bd4d748270cb307, type: 3}
+  - _clickSound: {fileID: 8300000, guid: 08de1e16e0cc90045be3e34b4c7b0c88, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

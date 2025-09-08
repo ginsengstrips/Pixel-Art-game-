@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChooseLevel.unity
+    guid: bdb6623af0e7bc046b0cbfae56a4ffa6
+  - enabled: 1
+    path: Assets/Scenes/Standart/Zombie.unity
+    guid: 0f640738e029be64c85b17afa160c09f
+  - enabled: 1
+    path: Assets/Scenes/Standart/Pig.unity
+    guid: 42f8c6492ffeee34b827a35b7ff21d02
+  - enabled: 1
+    path: Assets/Scenes/Standart/Skeleton.unity
+    guid: 9327b546ce73d444d9b108c51712209e
+  - enabled: 1
+    path: Assets/Scenes/Standart/Slime.unity
+    guid: d381e3fabb5de9b49b20d535e10c1da1
+  - enabled: 1
+    path: Assets/Scenes/Standart/Ghast.unity
+    guid: d3e2658cea4befe4dbfd1c77ea06ec3f
+  - enabled: 1
+    path: Assets/Scenes/Standart/Chicken.unity
+    guid: 2646862ad53730344b4cca0ac638940b
+  - enabled: 1
+    path: Assets/Scenes/Standart/Steve.unity
+    guid: 729775804e5a17c438f3a6fffd436633
+  - enabled: 1
+    path: Assets/Scenes/Standart/Sheep.unity
+    guid: e3fd9929f9644f6478bd4ea46f9f7556
+  - enabled: 1
+    path: Assets/Scenes/Standart/EnderMan.unity
+    guid: 7604ed136a983544eb502af9ab24d17f
+  - enabled: 1
+    path: Assets/Scenes/Standart/AlexLevel.unity
+    guid: 51244d1a932e8be4893f4a83721c895c
+  - enabled: 1
+    path: Assets/Scenes/Standart/Cow.unity
+    guid: 035c3f82626fbcb4b8a3b3fa1d05aac0
+  - enabled: 1
+    path: Assets/Scenes/Standart/Creepeer.unity
+    guid: 400c292b276f8844a914bdd0c888902c
+  - enabled: 1
+    path: Assets/Scenes/Standart/Spider.unity
+    guid: 457b5764d4f97dd4dbd5140d89251843
+  - enabled: 1
+    path: Assets/Scenes/Standart/Golem.unity
+    guid: ac62eeeadabc2fe4892d3664cbfe0cc1
+  - enabled: 1
+    path: Assets/Scenes/Standart/Villager.unity
+    guid: 2153fc6071e3b244792b23717b965a29
+  - enabled: 1
+    path: Assets/Scenes/Standart/Drowned.unity
+    guid: 56ede8c607cfaac48b8d30051fb36655
+  - enabled: 1
+    path: Assets/Scenes/Standart/MagmaCube.unity
+    guid: 364eaba1bc886eb47bcfc2b203afaf75
+  - enabled: 1
+    path: Assets/Scenes/Standart/Vindicator.unity
+    guid: 5d6e32b9e7d550141a40bab3bb8e1dc0
+  - enabled: 1
+    path: Assets/Scenes/Standart/WitherSkeleton.unity
+    guid: f7d80da8800f3954799ef9e7d172adf1
+  - enabled: 1
+    path: Assets/Scenes/Standart/RedCow.unity
+    guid: 04889b61be55fbe43b5d29e4986f166f
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Kompot.unity
+    guid: b0e652758003aaa4cb589b3752bc35ba
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Teroser.unity
+    guid: 0f28f8639cd7a4046ad7ddb12847f647
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Yal.unity
+    guid: 0fac16f698f09984fabf30ee1c06e978
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/FixEye.unity
+    guid: c26c28d6327cc624f9e3ffa748fd63f6
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Kreyk.unity
+    guid: 05695fbaa06e5114f8e440f90e30ab09
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/BlackRunner.unity
+    guid: 043d399a3dd32b2439c704bc74fa2ca9
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Lololoshka.unity
+    guid: 78502e7ccf0e9134b9b48ea5508c01c2
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Pozzy.unity
+    guid: 3da8f625ff096fe48be55996e5593b3c
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Evgeha.unity
+    guid: 4303021e026e6724488b0808443e52b8
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/YarikLapa.unity
+    guid: 032bf57a83e68144dbd9c56264d50f37
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Aid.unity
+    guid: beadbd5a314208f49b94a2bfa2d834e3
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Demaster.unity
+    guid: 1355d057e373f464eafe7590aeb6e3ea
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Frost.unity
+    guid: 396d36275f3e2a344b41442cd839a097
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Kane.unity
+    guid: 4ef2c72d24a985a42b7af2bd3b3e3f54
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Lagger.unity
+    guid: 5e7e887f0100f554c80349150613e89b
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/DakPlay.unity
+    guid: 1bafcce0c384ff74b8e9b8c1014f2236
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Edison.unity
+    guid: 943c14515a971414794a40989e964dc0
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/EvgenBro.unity
+    guid: e65031236f140f7408cba519a29b854d
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Mistik.unity
+    guid: 5c95d192537b3174a9460562c91d1b50
+  - enabled: 1
+    path: Assets/Scenes/Youtubers/Minikotik.unity
+    guid: 50bf16fd087ecdc47982fa3754e342ca
+  - enabled: 1
+    path: Assets/Scenes/Other/SpiderMan.unity
+    guid: c2bf67506699cb54ea37b85e03d56f84
+  - enabled: 1
+    path: Assets/Scenes/Other/SquidGame.unity
+    guid: cf7a06d46fbb5594184cee382abf08e8
+  - enabled: 1
+    path: Assets/Scenes/Other/Duck.unity
+    guid: dea02719dabf04c49a3fc908ffd5015e
+  - enabled: 1
+    path: Assets/Scenes/Other/Deadpool.unity
+    guid: 2f91429973cc87148aff2fbcbb33c928
+  - enabled: 1
+    path: Assets/Scenes/Other/Notch.unity
+    guid: e75f78221f905ef48aa31025b34d4155
+  - enabled: 1
+    path: Assets/Scenes/Other/Roblox.unity
+    guid: 9257a07d1c456b44fa744df661756567
+  - enabled: 1
+    path: Assets/Scenes/Other/WhiteBear.unity
+    guid: e43f9a283309d3d47bddfff5672045d3
+  - enabled: 1
+    path: Assets/Scenes/Other/Snowman.unity
+    guid: eceb9e1eebea02a40bcae05475fdf2be
+  - enabled: 1
+    path: Assets/Scenes/Other/Block.unity
+    guid: 5bb8bbdd5a160954c8071b1770c70f43
+  - enabled: 1
+    path: Assets/Scenes/Other/Dedyshka.unity
+    guid: d54ffd5770b714a4e953423ac7f0bb79
+  - enabled: 1
+    path: Assets/Scenes/Other/AmongUs.unity
+    guid: 4f711fa3a78dc4140b3d04c6242f2728
+  - enabled: 1
+    path: Assets/Scenes/Other/Cat.unity
+    guid: 6ddce713a0955d54d947575507a17580
+  - enabled: 1
+    path: Assets/Scenes/Other/Karych.unity
+    guid: 665b1ff1196ef084cb27c4b5af258bf5
+  - enabled: 1
+    path: Assets/Scenes/Other/Minion.unity
+    guid: 6821fce75b8cbe845a798a9987d75951
+  - enabled: 1
+    path: Assets/Scenes/Other/CaptainAmerica.unity
+    guid: 0bd42254c0d7866419d7cedb62df2154
+  - enabled: 1
+    path: Assets/Scenes/Other/Trollface.unity
+    guid: 64e8219ae07e27741831f2eaa34fc65a
+  - enabled: 1
+    path: Assets/Scenes/Other/Joker.unity
+    guid: 2af0d24dce9602c409326d48b1dc22fa
+  - enabled: 1
+    path: Assets/Scenes/Other/Garfield.unity
+    guid: b626f10584ceb2f4a8ac3879a33e8f8b
+  - enabled: 1
+    path: Assets/Scenes/Other/Batman.unity
+    guid: e14c196c369149c46a3b1b8ecee551df
+  - enabled: 1
+    path: Assets/Scenes/Other/Smile.unity
+    guid: 21d4393322c5b3e4d987d38eb0eaa79b
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafFreddy.unity
+    guid: 766638393e7fe0042b52a76f3ca8d2f3
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafFoxy.unity
+    guid: 1e09a79e2afd8124d952ed681ad979cc
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafChica.unity
+    guid: a252024efa06c724aa6ad15b0952eb57
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafBonny.unity
+    guid: f59653903da053441aa5cb559d494151
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafMangle.unity
+    guid: eb16a8be12276bd4fbb9d317258a9b09
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafMarionette.unity
+    guid: d841055120d2e5c4b9e1a290623e0a11
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafToyChica.unity
+    guid: 67c2c7297bc3df54680f35ccea04a131
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafPurpleGuy.unity
+    guid: 1edade86d37f00c4ba44097d8ff069b3
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafGoldenFreddy.unity
+    guid: b0e1302190e3f4f4fa1c9bcc3c84db9b
+  - enabled: 1
+    path: Assets/Scenes/Fnaf/FnafFreddy2.unity
+    guid: 8c5f21e211848c04baf42eee7e1ca6c6
+  m_configObjects: {}

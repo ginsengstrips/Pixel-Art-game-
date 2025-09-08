@@ -1,0 +1,3 @@
+Build path: F:/UnityProjects/raskraska/TestBuild3
+Build number: 10
+PluginYG version: 2.0042
