@@ -1,11 +1,11 @@
 # Pixel Art 2D Game
-Pixel by pixel, recreate the blocky blueprint by matching each colorful square to complete the iconic scene.
-#Features
+Pixel by pixel, recreate the blocky blueprint by matching each colorful square to complete the iconic scene.<br>
+# Features
 You can set your own drawings for further repetition.<br>
 For correct operation, it is enough to simply assign the desired cell colors for both drawings.<br>
 The ability to proceed to the next level by watching an ad has been implemented.<br>
 You can also set a larger/smaller number of cells manually (without forgetting to change _maxCorrectValue in Coloring).<br>
-#Previews
+# Previews
 
 ![v4kMWrPhewlkqvUXZhS82PVZURjbXbTmCy0RXBx5JQJ0NnC703SZ60GsWisl8o7ec1td4tY5h7Mpu7_QllgWP9MQ](https://github.com/user-attachments/assets/97f9af13-602c-4fd8-a944-67cfe2c3430b)
 ![GFhgxRaTsYKR-p68nQqUd7ubRII-qoCmg0Eu6U5X1-gvd7PDfHZRXTHGoxt5A1XCu7SVO3n2DpLbcIQh1zt6yHOs](https://github.com/user-attachments/assets/0de4223a-058b-4868-a475-4a78c3699270)
