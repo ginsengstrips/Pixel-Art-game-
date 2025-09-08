@@ -4,10 +4,10 @@ using UnityEngine;
 public class GridLayoutSprite : MonoBehaviour
 {
     [SerializeField] private GameObject[] _rows;
-    private SpriteRenderer[] _sprites; // Массив спрайтов
-    [SerializeField] private int _columns = 8;          // Количество столбцов
-    [SerializeField] private float _spacingX = 0.5f;      // Расстояние по X
-    [SerializeField] private float _spacingY = 0.5f;      // Расстояние по Y
+    private SpriteRenderer[] _sprites; // 
+    [SerializeField] private int _columns = 8;          // amount columns
+    [SerializeField] private float _spacingX = 0.5f;      // distance by X
+    [SerializeField] private float _spacingY = 0.5f;      // distance by Y
 
     [ContextMenu("Distribute in Grid")]
 
